@@ -12,8 +12,8 @@ body {
 }
 
 header {
-  background-color: var(--cor-de-texto);
-  color: var(--cor-texto-dois);
+  background-color:#d7ba96;
+  color: #555f42;
   padding: 10px 20px;
   display: flex;
   justify-content: space-between;
