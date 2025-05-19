@@ -24,12 +24,12 @@ header {
 .logo-titulo {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 25px;
 }
 
 .logo-titulo img {
-  width: 120px;
-  height: 120px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
 }
 
