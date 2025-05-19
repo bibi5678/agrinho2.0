@@ -6,14 +6,14 @@
 
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Bree serif, sans-serif;
   line-height: 1.6;
   color: #333;
 }
 
 header {
-  background-color: #333;
-  color: #fff;
+  background-color: var(--cor-de-texto);
+  color: var(--cor-texto-dois);
   padding: 10px 20px;
   display: flex;
   justify-content: space-between;
